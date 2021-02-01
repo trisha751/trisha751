@@ -1,6 +1,5 @@
 ### Hi there 👋, this is Trisha
 #### Minimalist | Analyst | Symmetrically Asymmetric!
-![Minimalist | Analyst | Symmetrically Asymmetric!](C:\Users\User\OneDrive\Desktop\trishasolanki)
 
 
 Skills: Python | R | Tableau | Power BI 
