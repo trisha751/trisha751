@@ -3,7 +3,7 @@
 
 Skills: Python | R | Tableau | Power BI 
 
-- 🔭  I’m currently working on this page 
+- 🔭  Building something creative
 - 🌱  Exploring Data Analysis & Business Analysis
 - 📫  Reach me at: trisha751@gmail.com 
 
