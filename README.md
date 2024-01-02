@@ -1,7 +1,7 @@
 ### Hi there 👋, this is Trisha
 #### Minimalist | Analyst | Symmetrically Asymmetric!
 
-Skills: Python | R | Tableau | Power BI 
+Skills: UI/UX Design | Product Design | Data Analysis | Figma | Tableau | Power BI 
 
 - 🔭  Building something creative
 - 🌱  Exploring Data Analysis & Business Analysis
